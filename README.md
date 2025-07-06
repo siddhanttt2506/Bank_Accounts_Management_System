@@ -13,17 +13,9 @@ The Bank Accounts Management System is a portfolio project showcasing my skills 
 - Data Validation: Prevent erroneous or unauthorized data entry.
 - User-friendly Interface: Responsive frontend for smooth interactions.
 
-**Technology Stack:**
-
-- Backend: Python (Flask/Django)
-- Frontend: HTML, CSS, JavaScript
-- Database: PostgreSQL
-- Authentication: Hashing, JWT
-- Security: HTTPS, Role-based access control
-
 **Installation and Setup:**
 
-1. Clone the repository: `git clone https://github.com/tushar2704/bank-accounts-management.git`
+1. Clone the repository
 2. Navigate to the project directory: `cd bank-accounts-management`
 3. Set up a virtual environment: `python -m venv venv`
 4. Activate the virtual environment: `source venv/bin/activate` (Linux/Mac) or `venv\Scripts\activate` (Windows)
@@ -40,22 +32,6 @@ The Bank Accounts Management System is a portfolio project showcasing my skills 
 **Contributing:**
 
 This project is a personal portfolio project and not intended for collaborative development. However, feedback and suggestions are welcome.
-
-## Contact Information
-
-If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [info@tushar-aggarwal.com](mailto:info@tushar-aggarwal.com) or connect with me on LinkedIn at [Tushar Aggarwal](https://www.linkedin.com/in/yourname).
-
-Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
-
-
-
-## Author
-- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
-
 
 
 
